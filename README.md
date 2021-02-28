@@ -9,3 +9,4 @@
 -	If a directory doesn't exist in the root folder with the topic you contribute to create a new directory, with text file in it with resource link + mini description
 -	If a directory exists in the root folder about the topic you want to add your resources to, create new text file in this directory or add information to already existing file
 
+Our team members will approve your PR or comment in case of needed changes
