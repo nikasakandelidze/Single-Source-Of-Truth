@@ -10,7 +10,8 @@
 
 
 ## Contribution
-### If you would like to contribute to this "project", please make a Pull Request, which follow next rules:
+### If you would like to contribute to this "project", please fork the project and make a Pull Request.
+### The Pull Request should follow next rules:
 -	If a directory doesn't exist in the root folder with the topic you contribute to create a new directory, with text file in it with resource link + mini description
 -	If a directory exists in the root folder about the topic you want to add your resources to, create new text file in this directory or add information to already existing file
 
