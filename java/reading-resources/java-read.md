@@ -11,4 +11,7 @@
 ## Jenkov Java tutorials
 	Link: http://tutorials.jenkov.com/
 	Description: Jacob Jenkov's pretty popular and informative Blogs regarding Java to it's smallest details.
-	
+
+## Java Programming notes from ntu.edu.sg
+	Link: https://www3.ntu.edu.sg/home/ehchua/programming/index.html
+	Description: Very detailed explanations of Java, and not only, technologies such as:JDBC, Servlets, Servlet containers, Relational Databases	
