@@ -10,6 +10,10 @@
 	Description: Introduction  to functional programming and all of it's internals
 
 
-## Course introducing to Compilers
+## Intro to Compilers
 	Link: https://www.youtube.com/watch?v=W9B98S2mGGE&list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i
 	Description: Course about compilers from "CSU sacramento" university. Excelent course where all the details and different parts of compilers are reviewed. For completing this course, knowing "C lang." on mid level  will be sufficient.
+
+## Intro to Operating Systems
+	Link: https://pages.cs.wisc.edu/~remzi/OSTEP/
+	Description: Course about Operating Systems, with free E-book. The course is an excelenet open-source resource to learn OS in much details, it has videos + to read resources in it.
