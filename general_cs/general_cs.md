@@ -10,3 +10,7 @@
 ## Intro to Operating Systems
 	Link: https://pages.cs.wisc.edu/~remzi/OSTEP/
 	Description: Course about Operating Systems, with free E-book. The course is an excelenet open-source resource to learn OS in much details, it has videos + to read resources in it.
+
+## Catalogue for general CS resources by Joren Garenar
+	Link: https://resources.joren.ga/
+	Description: This resource is a catalogue, where you can find many resources about many different CS topics united in one webpage.
