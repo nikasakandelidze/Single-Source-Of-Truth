@@ -14,3 +14,8 @@
 ## Catalogue for general CS resources by Joren Garenar
 [go to resource](https://resources.joren.ga/)
 	Description: This resource is a catalogue, where you can find many resources about many different CS topics united in one webpage.
+
+
+## "Ghassan Shobaki Computer Science Lectures"
+[go to resource](https://www.youtube.com/channel/UCthr5rA6EA4c1S0L2OOiygA/playlists)
+	Description: Youtube lectures with core Computer Science topics by Ghassan Shobaki, courses include: OS, Compilers, Functional programming, Theory of computation etc.
