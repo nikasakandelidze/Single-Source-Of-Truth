@@ -14,4 +14,9 @@
 
 ## Java Programming notes from ntu.edu.sg
 [go to resource](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
-	Description: Very detailed explanations of Java, and not only, technologies such as:JDBC, Servlets, Servlet containers, Relational Databases	
+	Description: Very detailed explanations of Java, and not only, technologies such as:JDBC, Servlets, Servlet containers, Relational Databases
+
+## TechnicalSand resources for Java
+[go to resource](https://technicalsand.com/)
+	Description: A platform to discuss Software development processes, practices & tips. Lets learn and share to developer community.
+	
