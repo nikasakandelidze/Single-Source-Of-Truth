@@ -19,4 +19,8 @@
 ## TechnicalSand resources for Java
 [go to resource](https://technicalsand.com/)
 	Description: A platform to discuss Software development processes, practices & tips. Lets learn and share to developer community.
+
+## Marco Behler blog for Java and Spring
+[go to resource](https://www.marcobehler.com/guides)
+	Description: Very deep and interesting online blog/resource for Java and SPring, it's a very useful resource to read if you don't fully understand how some core modules of SPring work together and etc.
 	
