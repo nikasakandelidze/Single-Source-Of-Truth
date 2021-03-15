@@ -19,3 +19,7 @@
 ## "Ghassan Shobaki Computer Science Lectures"
 [go to resource](https://www.youtube.com/channel/UCthr5rA6EA4c1S0L2OOiygA/playlists)
 	Description: Youtube lectures with core Computer Science topics by Ghassan Shobaki, courses include: OS, Compilers, Functional programming, Theory of computation etc.
+
+## project based learning repo
+[go to resource](https://github.com/tuvtran/project-based-learning)
+	Description: A list of programming tutorials in which learners build an application from scratch
