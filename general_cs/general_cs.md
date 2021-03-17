@@ -23,3 +23,7 @@
 ## project based learning repo
 [go to resource](https://github.com/tuvtran/project-based-learning)
 	Description: A list of programming tutorials in which learners build an application from scratch
+
+## Teach yourself cs
+[go to resource](https://teachyourselfcs.com/)
+	Description: A list of guides for different topics in CS
