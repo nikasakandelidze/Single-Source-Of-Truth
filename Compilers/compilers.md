@@ -8,3 +8,8 @@
 ## Build your own Lisp
 [go to resource](http://buildyourownlisp.com/)
 	Description: Online book/reading resource that helps reader to create own/easened up "Lisp" language compiler.
+
+
+## Compilers course from EDX
+[go to resource](https://www.edx.org/course/compilers?index=product&queryID=b0fccab2e9903272977156b4fc4d92b4&position=1)
+	escription: Excelent course on EDX on Compilers, theory + practice.
