@@ -9,3 +9,7 @@
 ## "Spring Guru" course on Udemy, regarding Spring Cloud
 [go to resource](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/)
 	Description: "Spring Guru" course about Spring Cloud. Topics covered: microservices, distributed apps, spring cloud sub-modules..etc
+
+## Youtube Channel for learning in depth JPA by Thorben Janssens
+[go to resource](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw)
+	Description: Thorben Janssen's youtube channel, an excelent resource for learning JPA and many more topics in depth.
