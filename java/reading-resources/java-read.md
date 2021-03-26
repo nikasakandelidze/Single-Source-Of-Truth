@@ -23,4 +23,8 @@
 ## Marco Behler blog for Java and Spring
 [go to resource](https://www.marcobehler.com/guides)
 	Description: Very deep and interesting online blog/resource for Java and SPring, it's a very useful resource to read if you don't fully understand how some core modules of SPring work together and etc.
+
+## Reflectoring.io blog on Java, Spring Boot and software craftsmenship
+[go to resource](https://reflectoring.io/)
+	Description: Tutorials on Spring Boot and Java, thoughts about the Software Craft, and relevant book reviews. Because it's just as important to understand the Why as it is to understand the How. Have fun!
 	
