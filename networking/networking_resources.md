@@ -7,3 +7,9 @@
 ## Netoworking full course, lectures,book,powerpoint by Jim Kurose,Keith Ross
 [go to resource](http://gaia.cs.umass.edu/kurose_ross/index.html)
 	Description: Welcome to the authors' website for the textbook,Computer Networking: a Top Down Approach (Pearson). The 8th edition of our textbook has been published in the spring of 2020 - find out what's new in the 8th edition. From this page here (check out the menu at the top of the page), you can find resources and information of interest to students, teachers, and readers alike.
+
+## gaia.cd.umass.edu resources/details/all needed info about networking
+[go to resource](http://gaia.cs.umass.edu/)
+	Description: 
+ 	 	
+The Computer Networks Research Group in the School of Information and Computer Sciences at the University of Massachusetts, Amherst is led by Professors Jim Kurose , and Don Towsley. Our research spans a broad range of topics in networking, including network protocols and architecture, modeling and analysis, sensor networks, wireless networks, and network measurement. We seek a principled understanding of new and emerging areas through a complementary mix of theoretical and applied experimental research.
