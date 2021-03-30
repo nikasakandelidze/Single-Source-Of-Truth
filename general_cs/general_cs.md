@@ -31,3 +31,7 @@
 ## Intro to Computer Systems
 [go to resource](http://www.c-jump.com/CIS77/CIS77syllabus.htm)
 	Description: This course is an introduction to major components of computer systems. The course introduces fundamental concepts of computing systems such as binary arithmetic and data representation, the Von Neumann model for processing computer programs, the operation of memory, instruction set, and machine and assembly language programming
+
+## MIT open courseware youtube course
+[go to resource](https://www.youtube.com/c/mitocw/featured)
+	Description: MIT courseware courses/playlists regarding CS topics and much more
