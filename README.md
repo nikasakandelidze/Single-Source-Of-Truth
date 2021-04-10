@@ -10,8 +10,8 @@
 
 ## Table of Contents
 *   [Java](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java)
-*       *       [Books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/books/entry-level-books.md)
-        *       [Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/reading-resources/java-read.md)
+    *[Books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/books/entry-level-books.md)
+    *[Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/reading-resources/java-read.md)
 
 ## Contribution
 ### If you would like to contribute to this "project", please fork the project and make a Pull Request.
