@@ -13,6 +13,9 @@
   - [Books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/books/entry-level-books.md)
   - [Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/reading-resources/java-read.md)
   - [talks](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/talks)
+  - [java and databases](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/java_and_database_connectivity)
+- [Python]
+  - [Blogs]()
 ## Contribution
 ### If you would like to contribute to this "project", please fork the project and make a Pull Request.
 ### The Pull Request should follow next rules:
