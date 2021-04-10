@@ -10,7 +10,7 @@
 
 ## Table of Contents
 - [Java](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java)
-  - [Books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/books/entry-level-books.md)
+  - [Books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/books/books.md)
   - [Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/reading-resources/java-read.md)
   - [talks](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/talks)
   - [java and databases](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/java_and_database_connectivity)
