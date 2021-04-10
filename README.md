@@ -16,7 +16,7 @@
   - [java and databases](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/java_and_database_connectivity)
 - [Python](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/python)
   - [Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/python/resources.md)
-  - [Courses](#)
+  - [Courses](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/python/courses.md)
 - [computer networks](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/networking)
   - [reading/video resources](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/networking/networking_resources.md)
 ## Contribution

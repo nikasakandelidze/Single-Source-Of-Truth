@@ -2,7 +2,7 @@
 
 ---
 ## Python deep dive courses
-
+	Description: Python deep dive is udemy course with 4 parts. These courses are tested and approved by many python experts since these courses touch nearlly all the topics and constructs  of the python language.
 ## Python deep dive Part-1
 [go to resource](https://www.udemy.com/course/python-3-deep-dive-part-1/)
 
