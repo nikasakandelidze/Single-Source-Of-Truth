@@ -1,4 +1,7 @@
 ## Youtube Course regarding Java and Spring framework
+[go to resource](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852&ab_channel=Stanford)
+	Description: Programming methodologies, Stanford course. Excelent introductory programming course in java.
+
 [go to resource](https://www.youtube.com/channel/UC0z3MpVGrpSZzClXrYcZBfw)
 	Description: One of the most productive/useful courses present
 
