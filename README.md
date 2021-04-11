@@ -19,6 +19,10 @@
   - [Courses](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/python/courses.md)
 - [computer networks](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/networking)
   - [reading/video resources](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/networking/networking_resources.md)
+- [software Engineering](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/software_engineering)
+  - [Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/software_engineering/blogs.md)
+  - [Books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/software_engineering/books.md)
+  - [Cool general technologies/tools](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/software_engineering/technologies.md)
 ## Contribution
 ### If you would like to contribute to this "project", please fork the project and make a Pull Request.
 ### The Pull Request should follow next rules:
