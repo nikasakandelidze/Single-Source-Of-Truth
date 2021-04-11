@@ -13,3 +13,7 @@
 ## Compilers course from EDX
 [go to resource](https://www.edx.org/course/compilers?index=product&queryID=b0fccab2e9903272977156b4fc4d92b4&position=1)
 	escription: Excelent course on EDX on Compilers, theory + practice.
+
+## Engineering: A Compiler book
+[go to resource](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X/ref=sr_1_3?dchild=1&keywords=compilers&qid=1618163761&sr=8-3)
+	Description: One of the best and detailed books abouts engineering a compiler.
