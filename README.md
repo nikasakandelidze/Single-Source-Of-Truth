@@ -1,11 +1,14 @@
 ## General
-	Nowadays, whenver person wants to learn new technology, language or some kind of a new "Computer Science" related topic.
-	Even though there are lots of resources on the internet, it's quite hard to easily find  approved,
-	already tested and productive resources like Papers, online tutorials, web pages, books, courses and etc..
-	Everyone is simply lazy to spend much time to get solid and dependable resources to use.
-	 So why not combine our knoweledge about all the resources we have?
-	This repository helps to categorize approved and tested study guides/resources from our elastic group of developers/engineers.
-	In this repository you can find different study resources regarding different topics in Computer Science/Software Engineering.
+	Nowadays, whenver person wants to learn new technology, language 
+    or some kind of a new "Computer Science" related topic
+	Even though there are lots of resources on the internet, it's quite hard to
+    easily find  approved already tested and productive resources like Papers,
+    online tutorials, web pages, books, courses and etc.. Everyone is simply 
+    lazy to spend much time to get solid and dependable resources to use.
+	So why not combine our knoweledge about all the resources we have?
+	This repository helps to categorize approved and tested study guides/resources 
+    from our elastic group of developers/engineers. In this repository you can find 
+    different study resources regarding different topics in Computer Science/Software Engineering.
 	All the resources have been approved by our team members.
 
 ## Table of Contents
