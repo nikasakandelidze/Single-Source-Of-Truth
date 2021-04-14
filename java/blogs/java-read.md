@@ -27,4 +27,7 @@
 ## Reflectoring.io blog on Java, Spring Boot and software craftsmenship
 [go to resource](https://reflectoring.io/)
 	Description: Tutorials on Spring Boot and Java, thoughts about the Software Craft, and relevant book reviews. Because it's just as important to understand the Why as it is to understand the How. Have fun!
+
+## JavaInUSe
+[go to resource](https://www.javainuse.com/home)
 	
