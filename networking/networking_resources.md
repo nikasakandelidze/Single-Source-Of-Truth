@@ -13,3 +13,13 @@
 	Description: 
  	 	
 The Computer Networks Research Group in the School of Information and Computer Sciences at the University of Massachusetts, Amherst is led by Professors Jim Kurose , and Don Towsley. Our research spans a broad range of topics in networking, including network protocols and architecture, modeling and analysis, sensor networks, wireless networks, and network measurement. We seek a principled understanding of new and emerging areas through a complementary mix of theoretical and applied experimental research.
+
+## High Performance Browser Networking
+[go to resource](https://hpbn.co/)
+	Description: Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience.
+
+## Load Balancers, Servers, Firewalls and Caches Book
+[go to resource](https://www.amazon.com/Load-Balancing-Servers-Firewalls-Caches/dp/0471415502)
+
+## TCP/IP guide
+[go to resource](http://tcpipguide.com/free/index.htm)
