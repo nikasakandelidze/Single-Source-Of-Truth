@@ -19,3 +19,7 @@
 ## Stack abuse
 [go to resource](https://stackabuse.com/)
 	Description: Stack abuse is programming language angostic, informative web platform/blogs accumulator for software engineering.
+
+## wissel.net
+[go to resource](https://wissel.net/)
+	Description: ..
