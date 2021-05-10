@@ -23,3 +23,6 @@ The Computer Networks Research Group in the School of Information and Computer S
 
 ## TCP/IP guide
 [go to resource](http://tcpipguide.com/free/index.htm)
+
+## Computer networks A Systems guide
+[go to resource](https://book.systemsapproach.org/index.html)
