@@ -23,3 +23,7 @@
 ## wissel.net
 [go to resource](https://wissel.net/)
 	Description: ..
+
+## Asyncrhonous programming
+[go to resource](https://luminousmen.com/post/asynchronous-programming-blocking-and-non-blocking)
+Descrption: ...
