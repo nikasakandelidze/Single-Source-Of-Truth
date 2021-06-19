@@ -16,4 +16,6 @@
 [go to resource](https://vertx.io/blog/vert-x-application-configuration/)
 [go to resource](https://vertx.io/blog/contract-driven-rest-services-with-vert-x3/)
 [go to resource](https://paulswithers.github.io/blog/2019/12/31/vertx-junit-tests)
+[go to resource](http://www.julienviet.com/advanced-vertx-guide/)
+[go to resource](http://tutorials.jenkov.com/vert.x/overview.html)
 
