@@ -39,3 +39,6 @@
 ## Everything on COmputer science webpage
 [go to resource](https://everythingcomputerscience.com/)
 	Description: Computer Science (CS) is the study of the principles and use of computers. Simply put it's the science that deals with the theory and methods of processing information in digital computers, the design of computer hardware and software, and the applications of computers. A computer is simply a tool for a computer scientist, like a telescope for an astronomer. Teach yourself !
+
+# Catalogue of 650 courses of CS
+    [go to resource](https://collegecompendium.goldin.io/explore)
