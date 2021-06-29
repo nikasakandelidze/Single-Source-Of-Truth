@@ -30,4 +30,7 @@
 
 ## JavaInUSe
 [go to resource](https://www.javainuse.com/home)
+
+## Java guide
+[go to resource](https://courses.javaguides.net/)
 	
