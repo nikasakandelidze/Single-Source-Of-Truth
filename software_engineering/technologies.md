@@ -9,3 +9,6 @@ We're an open company, and our rules database is open as well! You'll find in th
 
 ## Actor model
 [go to resource](https://homepages.fhv.at/thjo/lecturenotes/sysarch/)
+
+## Actor model res.2
+[go to resource](https://doc.akka.io/docs/akka/current/typed/guide/index.html)
