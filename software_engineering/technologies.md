@@ -6,3 +6,9 @@
 Since 2008 we've been devoted to helping developers around the world deliver clean, secure code.
 
 We're an open company, and our rules database is open as well! You'll find in this site the thousands of rules offered by our Code Quality and Code Security static analysis. For each we give you code samples and tell you not just what to do, but more importantly why. And we offer it all here because whether or not you use our analysis, we want to help you write better code.
+
+## Actor model
+[go to resource](https://homepages.fhv.at/thjo/lecturenotes/sysarch/)
+
+## Actor model res.2
+[go to resource](https://doc.akka.io/docs/akka/current/typed/guide/index.html)
