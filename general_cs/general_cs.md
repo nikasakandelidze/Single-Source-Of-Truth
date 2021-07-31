@@ -42,3 +42,6 @@
 
 # Catalogue of 650 courses of CS
     [go to resource](https://collegecompendium.goldin.io/explore)
+
+# course about structure and interpretation of computer programs
+[go to resource](https://edge.edx.org/courses/uc-berkeley/cs61as-1x/SICP/about)
