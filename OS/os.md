@@ -16,3 +16,6 @@
 
 ## Into to computer system
 [go to resouce](http://pages.cs.wisc.edu/~gerald/cs354/Spring18/)
+
+## cs 162 berkley course
+[go to resource](https://cs162.org/)
