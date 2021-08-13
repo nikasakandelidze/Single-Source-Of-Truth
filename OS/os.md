@@ -19,3 +19,6 @@
 
 ## cs 162 berkley course
 [go to resource](https://cs162.org/)
+
+## linux kernel docs
+[go to resource](https://linux-kernel-labs.github.io/refs/heads/master/index.html)
