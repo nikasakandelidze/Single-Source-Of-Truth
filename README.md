@@ -27,6 +27,7 @@
   - [Cool general technologies/tools](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/software_engineering/technologies.md)
 - [Compilers](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/Compilers/compilers.md)
 - [Operating Systems](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/OS/os.md)
+- [Distributed Systems](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/distributed_systems/resources.md)
 
 ## Contribution
 ### If you would like to contribute to this "project", please fork the project and make a Pull Request.
