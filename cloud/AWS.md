@@ -8,3 +8,5 @@
 ## Courses
 - [AWS full course whizhlabs](https://www.whizlabs.com/aws-solutions-architect-associate/)
 - [AWS youtube essentials course](https://www.youtube.com/watch?v=CGFrYNDpzUM&list=PLv2a_5pNAko0Mijc6mnv04xeOut443Wnk)
+- [channel by Stephan Maarek about AWS](https://www.youtube.com/watch?v=10JKpg-eqZU&list=PLt1SIbA8guuusDOIqQuiFKerF_4_nQ_Xs)
+- [AWS videos from cloud academy](https://www.youtube.com/watch?v=706mCjqNPDk&list=PLczBwDf63icwuBQrpzBJwG60aRVD4T3Ex)
