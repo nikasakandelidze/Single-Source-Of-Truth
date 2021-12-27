@@ -10,6 +10,9 @@ Collection of popular and approved resources for learning different Computer Sci
   - [talks](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/talks)
   - Detailed topics
 	- [java and databases](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/java_and_database_connectivity/resources.md)
+	- [frameworks]
+		- [Spring/Spring Boot](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/frameworks/spring.md)
+		- [Vert.x](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/frameworks/vertx.md)
 - [Python](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/python)
   - [Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/python/resources.md)
   - [Courses](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/python/courses.md)
