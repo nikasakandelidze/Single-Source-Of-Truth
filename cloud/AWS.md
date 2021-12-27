@@ -7,3 +7,4 @@
 
 ## Courses
 - [AWS full course whizhlabs](https://www.whizlabs.com/aws-solutions-architect-associate/)
+- [AWS youtube essentials course](https://www.youtube.com/watch?v=CGFrYNDpzUM&list=PLv2a_5pNAko0Mijc6mnv04xeOut443Wnk)

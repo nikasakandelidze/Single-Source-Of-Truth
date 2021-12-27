@@ -4,7 +4,8 @@
     topics. These resources include: Courses, Blogs, Books, docs and etc.
 
 ## Table of Contents
-- [Cloud](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/cloud/AWS.md)
+- Cloud
+  - [AWS](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/cloud/AWS.md)
 - [AWS]()
 - [Java](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java)
   - [Books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/books/books.md)
