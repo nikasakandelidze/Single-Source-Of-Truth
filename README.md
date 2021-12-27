@@ -1,7 +1,5 @@
 ## General
-	Collection of popular and approved resources for
-    learning different Computer Science or Software Engineering
-    topics. These resources include: Courses, Blogs, Books, docs and etc.
+Collection of popular and approved resources for learning different Computer Science or Software Engineering topics. These resources include: Courses, Blogs, Books, docs and etc.
 
 ## Table of Contents
 - Cloud
@@ -29,10 +27,13 @@
 - [Operating Systems](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/OS/os.md)
 - [Distributed Systems](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/distributed_systems/resources.md)
 
-## Contribution
+## Contribution and Issues policy
+
 ### If you would like to contribute to this "project", please fork the project and make a Pull Request.
 ### The Pull Request should follow next rules:
 -	If a directory doesn't exist in the root folder with the topic you contribute to create a new directory, with text file in it with resource link + mini description
 -	If a directory exists in the root folder about the topic you want to add your resources to, create new text file in this directory or add information to already existing file
+
+### If you notice issue with some resource or general structure of the repo please create the issue and our team will take immediate actions.
 
 Our team members will approve your PR or comment in case of needed changes.
