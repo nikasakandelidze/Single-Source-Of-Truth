@@ -8,3 +8,6 @@
 ## Brendan Eich javascript blog
 [go to resource](https://brendaneich.com/)
 	Description: Brendan Eich is the inventor of the language javascript and as you will guess his blog is full of interesting topics and ideas.
+
+## Advanced patterns js
+[go to resource](https://www.patterns.dev/resources/)
