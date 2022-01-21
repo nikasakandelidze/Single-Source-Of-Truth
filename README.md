@@ -6,7 +6,7 @@ Collection of popular and approved resources for learning different Computer Sci
   - [AWS](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/cloud/AWS.md)
 - [Java](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java)
   - [Books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/books/books.md)
-  - [Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/reading-resources/java-read.md)
+  - [Blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/java/blogs/java-read.md)
   - [talks](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/talks/talks.md)
   - Detailed topics
 	- [java and databases](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/java/java_and_database_connectivity/resources.md)
