@@ -20,6 +20,8 @@ Collection of popular and approved resources for learning different Computer Sci
   - [blogs](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/javascript/blogs)
   - [courses](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/javascript/courses/js-courses.md)
   - [books](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/javascript/books/js-books.md)
+- [algorithms](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/algorithms/articles.md)
+  - [operational complexity](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/algorithms/articles.md)
 - [docker](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/docker/docker.md)
 - [computer networks](https://github.com/nikasakandelidze/Single-Source-Of-Truth/tree/master/networking)
   - [reading/video resources](https://github.com/nikasakandelidze/Single-Source-Of-Truth/blob/master/networking/networking_resources.md)
