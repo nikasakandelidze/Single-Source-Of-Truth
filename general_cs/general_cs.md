@@ -45,3 +45,6 @@
 
 # course about structure and interpretation of computer programs
 [go to resource](https://edge.edx.org/courses/uc-berkeley/cs61as-1x/SICP/about)
+
+# Foundations of computer science stanfrod
+[go to resource](http://infolab.stanford.edu/~ullman/focs.html)
