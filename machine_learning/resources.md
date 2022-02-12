@@ -3,3 +3,6 @@
 ## Stanford machine learning course
 [go to resource](https://see.stanford.edu/Course/CS229)
 	Desciprtion: Machine learning course by Stanford.
+
+## Python data science handbook
+[go to resource](https://jakevdp.github.io/PythonDataScienceHandbook/)
