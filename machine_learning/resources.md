@@ -9,3 +9,6 @@
 
 ## Visualizing ML basics
 [go to resource](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+## Learning resources on kaggle ( data platform for ml )
+[go to resource](https://www.kaggle.com/learn)
