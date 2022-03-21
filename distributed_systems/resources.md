@@ -12,3 +12,6 @@
 
 ## Online blogs for excellent and detailed system deisng examples( like uber, whatsapp and etc )
 [go to resource](http://highscalability.com/)
+
+## System design free mini course online
+[go to resource](https://www.hiredintech.com/classrooms/system-design/lesson/52)
