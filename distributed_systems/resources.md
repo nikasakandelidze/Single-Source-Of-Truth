@@ -15,3 +15,6 @@
 
 ## System design free mini course online
 [go to resource](https://www.hiredintech.com/classrooms/system-design/lesson/52)
+
+## Conflict free resolution data types
+[go to resource](https://crdt.tech/)
